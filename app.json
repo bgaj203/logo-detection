@@ -1,0 +1,17 @@
+{
+  "name": "logo-detection",
+  "displayName": "logo-detection",
+  "expo": {
+    "name": "logo-detection",
+    "slug": "logo-detection",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
