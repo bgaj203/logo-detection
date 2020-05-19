@@ -61,3 +61,6 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+
+#firebase key (Ask for the file when you are working on this project)
+/config/keys.js
